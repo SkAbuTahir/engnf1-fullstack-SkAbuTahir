@@ -8,8 +8,8 @@ TriageSync is a full-stack support-triage and resource-slot scheduling app. Supp
 ## 2. Live links
 | What | URL |
 |---|---|
-| App | `https://engnf1-fullstack-sk-abu-tahir.vercel.app/login` __ |
-| API base | `https://<your-app>.vercel.app/api` |
+| App | `https://engnf1-fullstack-sk-abu-tahir.vercel.app/login`  |
+| API base | `https://engnf1-fullstack-sk-abu-tahir.vercel.app/api` |
 | Repo | `https://github.com/SkAbuTahir/engnf1-fullstack-SkAbuTahir` |
 
 ## 3. Seeded credentials
